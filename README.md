@@ -47,5 +47,7 @@ _[Italian]_
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draksis-AleX&hide_progress=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draksis-AleX&size_weight=0.1&count_weight=0.9&hide=shaderlab,hlsl&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
