@@ -1,6 +1,8 @@
-### Hi there <img src = "https://raw.githubuseercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I am Alessandro!
+# Hi there <img src = "https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width = "30px">, I am Alessandro!
 
 ---
+### Bio
+
 _[English]_
 
 👦🏻 Since the age of 6, I've been captivated by the allure of computers, a passion that has profoundly shaped my life and aspirations. 
@@ -10,6 +12,9 @@ _[English]_
 🧠 In recent years, I have learned the mathematical foundations that govern computer science, and I have been fascinated by them. I have thus developed a passion for the field of AI (and thus Machine Learning/Deep Learning), an area that perfectly combines mathematics and computer science. Moreover, this sector satisfies my desire to extract information from data, draw conclusions, and make predictions.
 
 ⚒️ I am just at the beginning of a long journey and I am eager to delve deeper into this field to make it my profession.
+
+<details>
+<summary>Italian Translation</summary>
 
 _[Italian]_
 
@@ -21,9 +26,14 @@ _[Italian]_
 
 ⚒️ Sono solo all'inizio di un lungo viaggio e ho voglia di approfondire questo settore per poter farlo diventare il mio lavoro.
 
+</details>
+
 ---
 
-🧰 Toolbox
+
+
+
+### 🧰 Toolbox
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt = "C logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt = "C logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt = "C logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt = "Java logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt = "JS logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "Python logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt = "Jupyter logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt = "Anaconda logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt = "HTML logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt = "CSS logo" width = "50px" height = "50px"> <img src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" alt = "AndroidStudio logo" width = "50px" height = "50px"> 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt = "Blender logo" width = "50px" height = "50px">
@@ -33,18 +43,9 @@ _[Italian]_
 <img src = "https://github.com/devicons/devicon/blob/master/icons/unity/unity-plain.svg" alt = "Unity logo" width = "50px" height = "50px">
 <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt = "VSCode logo" width = "50px" height = "50px">
 
+---
 
-<!--
-**Draksis-AleX/Draksis-AleX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draksis-AleX&hide_progress=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
